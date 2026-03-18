@@ -13,7 +13,7 @@ load_dotenv()
 
 # ── Page config ──────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="NexusAI",
+    page_title="RaMsAI",
     page_icon="◆",
     layout="wide",
     initial_sidebar_state="expanded",
